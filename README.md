@@ -1,2 +1,4 @@
-## init - Genuine Interactive's Front End Starting Point
-# Round 1 - Fight
+inventory
+=========
+
+app to keep track of inventory in the home
